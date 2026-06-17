@@ -527,3 +527,4 @@ if (contactForm) {
     );
 
 }
+const API_URL = "https://fares-portfolio.up.railway.app";
