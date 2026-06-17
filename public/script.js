@@ -479,7 +479,7 @@ if (contactForm) {
 
                 const response =
                 await fetch(
-                    "https://fares-portfolio.up.railway.app//contact",
+                    "https://fares-portfolio.up.railway.app/contact",
                     {
                         method: "POST",
                         headers: {
